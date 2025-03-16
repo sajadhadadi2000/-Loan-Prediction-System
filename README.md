@@ -20,7 +20,7 @@ This project implements a machine learning model to predict whether a loan appli
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/sajadhadadi2000/Loan-Prediction-System.git
 cd loan-streamlit
 ```
 
