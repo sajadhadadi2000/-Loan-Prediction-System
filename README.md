@@ -89,14 +89,6 @@ loan-streamlit/
 └── Output/            # Directory for batch prediction outputs
 ```
 
-## Contributors
-
-- Morteza Rashidpour
-- MohammadMilad Karimi
-- Sajad Hadadi
-- MohammadHossein Noohpisheh
-- Ali Nasiri Kia
-
 ## License
 
-[Specify your license here] 
+This project is licensed under the GNU General Public License.
